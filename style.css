@@ -13,7 +13,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-family: cursive;
+  font-family: 'Winky Sans';
   color: white;
 }
 
@@ -23,7 +23,6 @@ body main {
   justify-content: center;
   align-items: center;
   padding: 3rem 5rem;
-  /* margin-top: 3.75%; */
   border-radius: 3rem;
   background-color: rgba(128, 128, 128, 0.5);
 }
